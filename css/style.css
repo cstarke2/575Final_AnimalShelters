@@ -1,0 +1,90 @@
+h1 {
+	font-family: "Verdana", sans-serif;
+	color: #6B8E23;
+	font-style: italic;
+	font-size: 38px;
+	text-align: center;
+	text-shadow: 4px 4px #d3d3d3
+}
+h2 {
+	font-family:"Verdana", sans-serif;
+	color: #4682B4;
+	font-style: oblique;
+	font-size: 25px;
+	text-align: center;
+	text-shadow: 2px 2px #d3d3d3
+}
+h4 {
+    font-family:"Verdana", sans-serif;
+    color: #6B8E23;
+    text-shadow: 1px 1px #d3d3d3
+}
+
+
+body {background-color: #fdf5e6}
+
+img{
+    padding-bottom: 50px;
+}
+
+.headinfo {
+    color: #6B8E23;
+    font-family: verdana;
+    font-size: 10px;
+}
+.bindPopUp{
+    column-count: 2;
+}
+h3 {
+	font-family:"Verdana", sans-serif;
+	color: #2F4F4F;
+	font-size: 10px;
+}
+
+.slidecontainer {
+    width: 100%;
+}
+.slider {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 15px;
+    border-radius: 5px;  
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    letter-spacing: 100px;
+    margin-left: 500px;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #6B8E23;
+    cursor: pointer;
+}
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #6B8E23;
+}
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}

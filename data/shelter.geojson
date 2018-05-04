@@ -1,0 +1,444 @@
+"type" : "FeatureCollection";
+  "features" : [
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US04",
+        "GEO.id2": 4,
+        "GEO.display-label": "Arizona",
+        "shel11": 2,
+        "shel12": 2,
+        "shel13": 17,
+        "shel14": 24,
+        "shel15": 35,
+        "shel16": 108,
+        "shel17": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431,
+          33.729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US06",
+        "GEO.id2": 6,
+        "GEO.display-label": "California",
+        "shel11": 6,
+        "shel12": 10,
+        "shel13": 30,
+        "shel14": 52,
+        "shel15": 93,
+        "shel16": 444,
+        "shel17": 481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681,
+          36.116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US08",
+        "GEO.id2": 8,
+        "GEO.display-label": "Colorado",
+        "shel11": 1,
+        "shel12": 1,
+        "shel13": 17,
+        "shel14": 21,
+        "shel15": 32,
+        "shel16": 83,
+        "shel17": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311,
+          39.059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US12",
+        "GEO.id2": 12,
+        "GEO.display-label": "Florida",
+        "shel11": 4,
+        "shel12": 3,
+        "shel13": 20,
+        "shel14": 32,
+        "shel15": 61,
+        "shel16": 224,
+        "shel17": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686,
+          27.766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US13",
+        "GEO.id2": 13,
+        "GEO.display-label": "Georgia",
+        "shel11": 4,
+        "shel12": 4,
+        "shel13": 17,
+        "shel14": 22,
+        "shel15": 44,
+        "shel16": 150,
+        "shel17": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643,
+          33.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US17",
+        "GEO.id2": 17,
+        "GEO.display-label": "Illinois",
+        "shel11": 2,
+        "shel12": 3,
+        "shel13": 11,
+        "shel14": 14,
+        "shel15": 29,
+        "shel16": 93,
+        "shel17": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986,
+          40.349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US21",
+        "GEO.id2": 21,
+        "GEO.display-label": "Kentucky",
+        "shel11": 1,
+        "shel12": 2,
+        "shel13": 5,
+        "shel14": 7,
+        "shel15": 19,
+        "shel16": 70,
+        "shel17": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67,
+          37.668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US25",
+        "GEO.id2": 25,
+        "GEO.display-label": "Massachussets",
+        "shel11": 1,
+        "shel12": 1,
+        "shel13": 4,
+        "shel14": 4,
+        "shel15": 10,
+        "shel16": 66,
+        "shel17": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53,
+          42.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US26",
+        "GEO.id2": 26,
+        "GEO.display-label": "Michigan",
+        "shel11": 0,
+        "shel12": 2,
+        "shel13": 10,
+        "shel14": 12,
+        "shel15": 22,
+        "shel16": 71,
+        "shel17": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536,
+          43.326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US27",
+        "GEO.id2": 27,
+        "GEO.display-label": "Minnesota",
+        "shel11": 0,
+        "shel12": 0,
+        "shel13": 5,
+        "shel14": 7,
+        "shel15": 18,
+        "shel16": 52,
+        "shel17": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9,
+          45.694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US30",
+        "GEO.id2": 30,
+        "GEO.display-label": "Montana",
+        "shel11": 0,
+        "shel12": 0,
+        "shel13": 1,
+        "shel14": 1,
+        "shel15": 3,
+        "shel16": 19,
+        "shel17": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454,
+          46.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US31",
+        "GEO.id2": 31,
+        "GEO.display-label": "Nebraska",
+        "shel11": 1,
+        "shel12": 0,
+        "shel13": 1,
+        "shel14": 1,
+        "shel15": 4,
+        "shel16": 27,
+        "shel17": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268,
+          41.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US35",
+        "GEO.id2": 35,
+        "GEO.display-label": "New Mexico",
+        "shel11": 0,
+        "shel12": 0,
+        "shel13": 5,
+        "shel14": 8,
+        "shel15": 13,
+        "shel16": 48,
+        "shel17": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248,
+          34.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US36",
+        "GEO.id2": 36,
+        "GEO.display-label": "New York",
+        "shel11": 1,
+        "shel12": 2,
+        "shel13": 12,
+        "shel14": 20,
+        "shel15": 36,
+        "shel16": 154,
+        "shel17": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948,
+          42.165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US39",
+        "GEO.id2": 39,
+        "GEO.display-label": "Ohio",
+        "shel11": 2,
+        "shel12": 1,
+        "shel13": 11,
+        "shel14": 19,
+        "shel15": 30,
+        "shel16": 91,
+        "shel17": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764,
+          40.388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US41",
+        "GEO.id2": 41,
+        "GEO.display-label": "Oregon",
+        "shel11": 0,
+        "shel12": 0,
+        "shel13": 9,
+        "shel14": 16,
+        "shel15": 28,
+        "shel16": 78,
+        "shel17": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.017,
+          44.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US42",
+        "GEO.id2": 42,
+        "GEO.display-label": "Pennsylvania",
+        "shel11": 1,
+        "shel12": 2,
+        "shel13": 4,
+        "shel14": 7,
+        "shel15": 17,
+        "shel16": 96,
+        "shel17": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209,
+          40.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US48",
+        "GEO.id2": 48,
+        "GEO.display-label": "Texas",
+        "shel11": 5,
+        "shel12": 5,
+        "shel13": 24,
+        "shel14": 40,
+        "shel15": 65,
+        "shel16": 214,
+        "shel17": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563,
+          31.054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US53",
+        "GEO.id2": 53,
+        "GEO.display-label": "Washington",
+        "shel11": 1,
+        "shel12": 1,
+        "shel13": 7,
+        "shel14": 11,
+        "shel15": 22,
+        "shel16": 70,
+        "shel17": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49,
+          47.401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GEO.id": "0400000US55",
+        "GEO.id2": 55,
+        "GEO.display-label": "Wisconsin",
+        "shel11": 2,
+        "shel12": 2,
+        "shel13": 9,
+        "shel14": 13,
+        "shel15": 20,
+        "shel16": "  ",
+        "shel17": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616,
+          44.268
+        ]
+      }
+    }
+  ]
+}

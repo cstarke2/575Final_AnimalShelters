@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>The Count of Shelter Animals</title>
+    <meta name="description" content="The Count of Shelter Animals">
+    <meta name="author" content="Chelsea Starke">
+	<h1>THE COUNT OF SHELTER ANIMALS</h1>
+	<h2>And why they count.</h2>
+
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/leaflet.css" type="text/css">
+	<style>
+	#map{
+	width: 1200px;
+	height: 650px;
+	margin-top: 50px;
+	margin-left: 390px;
+    margin-bottom: 150px;
+    border: 3px;
+	}
+	</style>
+	</head>
+<body>
+	
+    <div class="slidecontainer" style="right: 100px">
+    <input type="range" min="0" max="6" value="1" class="slider" id="myRange">
+         <button class="skip" id="reverse">Reverse</button>
+         <button class="skip" id="forward">Skip</button>
+    </div>
+    
+    
+    <div id="map"></div>
+    <script src="js/jquery.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/shelt.js"></script>
+    <script src="data/statesData.geojson"></script>
+    <script src="data/shelter.geojson"></script>
+    <script src="js/main.js"></script>
+    <script src="js/leaflet.ajax.min.js"></script>
+    
+    <img src="shel2011.jpg" alt="2011" align="left">
+    <img src="shel2014.jpg" alt="2014" align="right">
+    <img src="shel2017.jpg" alt="2017" align="middle">
+</body>
+</html>
